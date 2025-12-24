@@ -8,6 +8,7 @@
   👨‍💻 Computer Science Major | 💡 Problem Solver | 🎮 Gamer | 🏋️‍♂️ Fitness Enthusiast  
 </p>
 
+
 <p align="center">
   🌍 From NYC, now in Pennsylvania | <img src="https://flagcdn.com/do.svg" alt="Dominican Republic Flag" width="20" height="15" /> Dominican Roots  
 </p>
