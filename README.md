@@ -13,14 +13,6 @@
 </p>
 
 ---
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tommyman1&show_icons=true&theme=radical" alt="Tommy's GitHub stats" />
-</p>
-
----
-
 <!-- Skills -->
 ### 🛠️ Tech Stack
 - **Languages:** C, Python, JavaScript, HTML, CSS, SQL  
@@ -32,9 +24,9 @@
 <!-- Projects -->
 ### 🚀 Highlight Projects
 
-- **
-- ** 
-- **
+- Hazleton-Tour 
+- Movie-Recommender  
+- File-Organizer 
 
 ---
 
